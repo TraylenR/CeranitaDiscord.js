@@ -1,0 +1,30 @@
+{
+  "name": "ceranitadiscord",
+  "version": "1.0.0",
+  "description": "Simple Discord bot using the character Ceranita.",
+  "main": "CeranitaScript.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --trace-warnings CeranitaScript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TraylenR/CeranitaDiscord.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "Node.js",
+    "Javascript"
+  ],
+  "author": "Traylen Ruch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TraylenR/CeranitaDiscord/issues"
+  },
+  "homepage": "https://github.com/TraylenR/CeranitaDiscord#readme"
+}
