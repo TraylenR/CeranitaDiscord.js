@@ -1,0 +1,22 @@
+module.exports = 
+{
+    black: ["negro", "negra", "nonwhite", "antiwhite", "dark"],
+    blank: ["empty", "nothing", "colorless", "none", "vacio", "vacía", ""],
+    blue: ["darkblue", "azul"],
+    brown: ["muddy", "café", "marrón"],
+    color: ["colors", "colores"],
+    cyan : ["lightblue", "cian"],
+    gray : ["gray", "lightblack", "darkwhite", "grayish", "greyish", "gris"],
+    green : ["darkgreen", "verde"],
+    lime : ["lightgreen", "lima"],
+    oragen : ["oranges", "darkyellow", "naranja"],
+    pink : ["lightred", "lightpurple", "rosa", "rosado", "rosada"],
+    purple : ["darkpink", "morado", "morada", "lilac"],
+    red : ["rojo", "roja", "sus"],
+    white : ["white", "blanco", "blanca", "nonblack", "antiblack", "caucasian"],
+    yellow : ["lightorange", "amarillo", "amarilla", "gold"],
+    help : ["helpme", "ayuda", "help!", "what", "command", "commands"],
+    ping : ["ping!", "piiing", "p!ng"],
+    hello : ["hello!", "hi", "hi!", "hey", "hey!"],
+    who : ["whoareyou", "ceranita", "ceranita?", "who?", "whoisthis", "whoisthis?"],
+}
